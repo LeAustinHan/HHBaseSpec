@@ -1,0 +1,2 @@
+# HHBaseSpec
+spec base infomation
